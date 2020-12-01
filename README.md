@@ -28,6 +28,19 @@ Perintah for n in range(i): digunakan untuk melakukan perulangan atau iterasi 
 
 Untuk menampilakan Data dengan perintah print dengan kode perulangan dan border ("======") atau Pemisah ("|").
 
+![input data](https://user-images.githubusercontent.com/72840534/100691576-982e3c80-33bb-11eb-802f-af0e1baa56b2.jpg)
+
+hasil setelah di run
+
+![hasil input data](https://user-images.githubusercontent.com/72840534/100691648-bb58ec00-33bb-11eb-9357-1c084b326f24.jpg)
+
+
+FLOWCHART
+
+![Untitled](https://user-images.githubusercontent.com/72840534/100691700-d3c90680-33bb-11eb-8002-518ca570530a.jpg)
+
+
+
 
 
 
